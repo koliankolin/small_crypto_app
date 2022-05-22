@@ -1,0 +1,12 @@
+.button {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.large {
+    font-size: 21px;
+}
+
+.small {
+    font-size: 14px;
+}
